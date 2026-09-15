@@ -1,1 +1,1 @@
-# lightos
+# LightOS
