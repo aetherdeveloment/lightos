@@ -1,0 +1,5 @@
+FILESETUP [
+  FORMAT = "TAR.XZ"
+  TYPE = "SYSTEM.ARCHIVE"
+ ]
+]
